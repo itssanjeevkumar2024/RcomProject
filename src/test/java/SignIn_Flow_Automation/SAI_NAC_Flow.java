@@ -32,6 +32,7 @@ public class SAI_NAC_Flow extends BaseClass {
 		HomePage.IgniteInternetShopButton().click();
 		HomePage.ShopInternetOption().click();
 		Thread.sleep(10000);
+		System.out.println("are");
 		assertTrue(true);
 	
 
