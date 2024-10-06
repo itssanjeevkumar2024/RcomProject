@@ -33,7 +33,7 @@ public class SAI_NAC_Flow extends BaseClass {
 		HomePage.ShopInternetOption().click();
 		Thread.sleep(10000);
 		System.out.println("This it the new update");
-			System.out.println("This it the new update in main branch");
+		System.out.println("This it the new update in main branch for review");
 		assertTrue(true);
 	
 
