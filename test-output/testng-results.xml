@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="26" passed="22" failed="1" skipped="3">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-03T13:08:08 EDT" name="Suite" finished-at="2024-10-03T13:11:23 EDT" duration-ms="195919">
+  <suite started-at="2024-10-06T05:36:36 EDT" name="Suite" finished-at="2024-10-06T05:40:02 EDT" duration-ms="205923">
     <groups>
     </groups>
-    <test started-at="2024-10-03T13:08:08 EDT" name="Test1" finished-at="2024-10-03T13:09:40 EDT" duration-ms="91998">
+    <test started-at="2024-10-06T05:36:36 EDT" name="Test1" finished-at="2024-10-06T05:38:17 EDT" duration-ms="101012">
       <class name="SignIn_Flow_Automation.DataDrivernFromExcel">
-        <test-method is-config="true" signature="ApplicationLaunch()[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:08 EDT" name="ApplicationLaunch" finished-at="2024-10-03T13:08:21 EDT" duration-ms="13794" status="PASS">
+        <test-method is-config="true" signature="ApplicationLaunch()[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:36:36 EDT" name="ApplicationLaunch" finished-at="2024-10-06T05:36:58 EDT" duration-ms="22021" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ApplicationLaunch -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:21 EDT" name="setUp" finished-at="2024-10-03T13:08:21 EDT" duration-ms="18" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:36:58 EDT" name="setUp" finished-at="2024-10-06T05:36:58 EDT" duration-ms="13" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:21 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:21 EDT" duration-ms="9" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:36:58 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:36:58 EDT" duration-ms="7" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:21 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:32 EDT" duration-ms="10673" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:36:58 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:01 EDT" duration-ms="2783" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -54,7 +54,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:32 EDT" name="setUp" finished-at="2024-10-03T13:08:32 EDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:01 EDT" name="setUp" finished-at="2024-10-06T05:37:01 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:32 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:32 EDT" duration-ms="1" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:01 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:01 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -86,7 +86,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:32 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:32 EDT" duration-ms="181" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:01 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:01 EDT" duration-ms="270" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -97,7 +97,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:32 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:32 EDT" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:01 EDT" name="setUp" finished-at="2024-10-06T05:37:01 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:01 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:01 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -118,18 +129,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:32 EDT" name="setUp" finished-at="2024-10-03T13:08:32 EDT" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:32 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:32 EDT" duration-ms="176" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:01 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:02 EDT" duration-ms="225" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -140,7 +140,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:32 EDT" name="setUp" finished-at="2024-10-03T13:08:32 EDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:02 EDT" name="setUp" finished-at="2024-10-06T05:37:02 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -151,7 +151,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:32 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:32 EDT" duration-ms="2" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:02 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:02 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -172,7 +172,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:32 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:33 EDT" duration-ms="289" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:02 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:02 EDT" duration-ms="315" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -183,7 +183,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="setUp" finished-at="2024-10-03T13:08:33 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:02 EDT" name="setUp" finished-at="2024-10-06T05:37:02 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -194,7 +194,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:33 EDT" duration-ms="2" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:02 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:02 EDT" duration-ms="8" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -215,7 +215,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:33 EDT" duration-ms="217" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:02 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:02 EDT" duration-ms="192" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -226,7 +226,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="setUp" finished-at="2024-10-03T13:08:33 EDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:02 EDT" name="setUp" finished-at="2024-10-06T05:37:02 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -237,7 +237,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:33 EDT" duration-ms="1" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:02 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:02 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -258,7 +258,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:33 EDT" duration-ms="165" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:02 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:05 EDT" duration-ms="2958" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -269,7 +269,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="setUp" finished-at="2024-10-03T13:08:33 EDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:05 EDT" name="setUp" finished-at="2024-10-06T05:37:05 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -280,7 +280,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:33 EDT" duration-ms="2" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:05 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:05 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -301,7 +301,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:33 EDT" duration-ms="200" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:05 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:05 EDT" duration-ms="186" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -312,7 +312,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="setUp" finished-at="2024-10-03T13:08:33 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:05 EDT" name="setUp" finished-at="2024-10-06T05:37:05 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -323,7 +323,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:33 EDT" duration-ms="2" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:05 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:05 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -344,7 +344,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:33 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:34 EDT" duration-ms="220" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:05 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:05 EDT" duration-ms="208" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -355,7 +355,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="setUp" finished-at="2024-10-03T13:08:34 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:05 EDT" name="setUp" finished-at="2024-10-06T05:37:05 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -366,7 +366,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:34 EDT" duration-ms="1" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:05 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:06 EDT" duration-ms="9" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -387,7 +387,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:34 EDT" duration-ms="254" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:06 EDT" duration-ms="203" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -398,7 +398,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="setUp" finished-at="2024-10-03T13:08:34 EDT" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="setUp" finished-at="2024-10-06T05:37:06 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -409,7 +409,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:34 EDT" duration-ms="2" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:06 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -430,7 +430,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:34 EDT" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:06 EDT" duration-ms="169" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -441,7 +441,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="setUp" finished-at="2024-10-03T13:08:34 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="setUp" finished-at="2024-10-06T05:37:06 EDT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -452,7 +452,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:34 EDT" duration-ms="2" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:06 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -473,7 +473,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:34 EDT" duration-ms="200" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:06 EDT" duration-ms="184" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -484,7 +484,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:34 EDT" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="setUp" finished-at="2024-10-06T05:37:06 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:06 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -505,18 +516,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="setUp" finished-at="2024-10-03T13:08:34 EDT" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:34 EDT" duration-ms="190" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:06 EDT" duration-ms="197" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -527,7 +527,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:34 EDT" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="setUp" finished-at="2024-10-06T05:37:06 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:06 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -548,18 +559,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="setUp" finished-at="2024-10-03T13:08:34 EDT" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:34 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:35 EDT" duration-ms="193" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:06 EDT" duration-ms="169" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -570,18 +570,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="setUp" finished-at="2024-10-03T13:08:35 EDT" duration-ms="1" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:35 EDT" duration-ms="2" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:06 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -602,7 +591,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:35 EDT" duration-ms="207" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="setUp" finished-at="2024-10-06T05:37:06 EDT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:06 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:07 EDT" duration-ms="168" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -613,7 +613,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:35 EDT" duration-ms="1" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:07 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -634,7 +634,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="setUp" finished-at="2024-10-03T13:08:35 EDT" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="setUp" finished-at="2024-10-06T05:37:07 EDT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -645,7 +645,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:35 EDT" duration-ms="185" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:07 EDT" duration-ms="184" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -656,7 +656,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="setUp" finished-at="2024-10-03T13:08:35 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="setUp" finished-at="2024-10-06T05:37:07 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -667,7 +667,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:35 EDT" duration-ms="2" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:07 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -688,7 +688,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:35 EDT" duration-ms="218" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:07 EDT" duration-ms="184" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -699,7 +699,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:35 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="setUp" finished-at="2024-10-06T05:37:07 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:07 EDT" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -720,18 +731,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="setUp" finished-at="2024-10-03T13:08:35 EDT" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:35 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:36 EDT" duration-ms="306" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:07 EDT" duration-ms="199" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -742,7 +742,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="setUp" finished-at="2024-10-03T13:08:36 EDT" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="setUp" finished-at="2024-10-06T05:37:07 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -753,7 +753,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:36 EDT" duration-ms="1" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:07 EDT" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -774,7 +774,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:36 EDT" duration-ms="259" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:07 EDT" duration-ms="190" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -785,7 +785,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:36 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="setUp" finished-at="2024-10-06T05:37:07 EDT" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:07 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -806,18 +817,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="setUp" finished-at="2024-10-03T13:08:36 EDT" duration-ms="0" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=DataDrivernFromExcel.PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:36 EDT" duration-ms="186" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:07 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:08 EDT" duration-ms="200" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -828,7 +828,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="setUp" finished-at="2024-10-03T13:08:36 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:08 EDT" name="setUp" finished-at="2024-10-06T05:37:08 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -839,7 +839,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-03T13:08:36 EDT" duration-ms="1" status="PASS">
+        <test-method signature="PrintExcelData(double,java.lang.String,java.lang.String)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:08 EDT" name="PrintExcelData" data-provider="getData" finished-at="2024-10-06T05:37:08 EDT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -860,7 +860,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PrintExcelData -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="getSceenShot" finished-at="2024-10-03T13:08:36 EDT" duration-ms="159" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:08 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:08 EDT" duration-ms="185" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -871,17 +871,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="AppClosure()[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-03T13:08:36 EDT" name="AppClosure" finished-at="2024-10-03T13:08:43 EDT" duration-ms="6590" status="PASS">
+        <test-method is-config="true" signature="AppClosure()[pri:0, instance:SignIn_Flow_Automation.DataDrivernFromExcel@2767e23c]" started-at="2024-10-06T05:37:08 EDT" name="AppClosure" finished-at="2024-10-06T05:37:12 EDT" duration-ms="4041" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AppClosure -->
       </class> <!-- SignIn_Flow_Automation.DataDrivernFromExcel -->
       <class name="SignIn_Flow_Automation.SAI_NAC_Flow">
-        <test-method is-config="true" signature="ApplicationLaunch()[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-03T13:08:43 EDT" name="ApplicationLaunch" finished-at="2024-10-03T13:08:56 EDT" duration-ms="13618" status="PASS">
+        <test-method is-config="true" signature="ApplicationLaunch()[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-06T05:37:12 EDT" name="ApplicationLaunch" finished-at="2024-10-06T05:37:26 EDT" duration-ms="13823" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ApplicationLaunch -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-03T13:08:56 EDT" name="setUp" finished-at="2024-10-03T13:08:56 EDT" duration-ms="1" status="PASS">
+        <test-method signature="ShopInternet()[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-06T05:37:26 EDT" name="ShopInternet" finished-at="2024-10-06T05:37:57 EDT" duration-ms="31798" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShopInternet -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-06T05:37:26 EDT" name="setUp" finished-at="2024-10-06T05:37:26 EDT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -892,11 +896,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="ShopInternet()[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-03T13:08:56 EDT" name="ShopInternet" finished-at="2024-10-03T13:09:25 EDT" duration-ms="28892" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ShopInternet -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-03T13:09:25 EDT" name="getSceenShot" finished-at="2024-10-03T13:09:27 EDT" duration-ms="2033" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-06T05:37:57 EDT" name="getSceenShot" finished-at="2024-10-06T05:37:59 EDT" duration-ms="1477" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -907,7 +907,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-03T13:09:27 EDT" name="setUp" finished-at="2024-10-03T13:09:27 EDT" duration-ms="0" status="PASS">
+        <test-method signature="Serviceability()[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-06T05:37:59 EDT" name="Serviceability" finished-at="2024-10-06T05:38:08 EDT" depends-on-methods="SignIn_Flow_Automation.SAI_NAC_Flow.ShopInternet" duration-ms="8963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Serviceability -->
+        <test-method is-config="true" signature="setUp(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-06T05:37:59 EDT" name="setUp" finished-at="2024-10-06T05:37:59 EDT" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -918,11 +922,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="Serviceability()[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-03T13:09:27 EDT" name="Serviceability" finished-at="2024-10-03T13:09:36 EDT" depends-on-methods="SignIn_Flow_Automation.SAI_NAC_Flow.ShopInternet" duration-ms="8892" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Serviceability -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-03T13:09:36 EDT" name="getSceenShot" finished-at="2024-10-03T13:09:36 EDT" duration-ms="111" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-06T05:38:08 EDT" name="getSceenShot" finished-at="2024-10-06T05:38:08 EDT" duration-ms="154" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -933,56 +933,56 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method is-config="true" signature="AppClosure()[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-03T13:09:36 EDT" name="AppClosure" finished-at="2024-10-03T13:09:40 EDT" duration-ms="3117" status="PASS">
+        <test-method is-config="true" signature="AppClosure()[pri:0, instance:SignIn_Flow_Automation.SAI_NAC_Flow@1750fbeb]" started-at="2024-10-06T05:38:08 EDT" name="AppClosure" finished-at="2024-10-06T05:38:17 EDT" duration-ms="9136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AppClosure -->
       </class> <!-- SignIn_Flow_Automation.SAI_NAC_Flow -->
     </test> <!-- Test1 -->
-    <test started-at="2024-10-03T13:09:40 EDT" name="Test2" finished-at="2024-10-03T13:11:23 EDT" duration-ms="103869">
+    <test started-at="2024-10-06T05:38:17 EDT" name="Test2" finished-at="2024-10-06T05:40:02 EDT" duration-ms="104848">
       <class name="SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E">
-        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:08:07 EDT" name="suiteSetup" finished-at="2024-10-03T13:08:08 EDT" duration-ms="340" status="PASS">
+        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:36:36 EDT" name="suiteSetup" finished-at="2024-10-06T05:36:36 EDT" duration-ms="581" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- suiteSetup -->
-        <test-method is-config="true" signature="ApplicationLaunch()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:09:40 EDT" name="ApplicationLaunch" finished-at="2024-10-03T13:09:52 EDT" duration-ms="12076" status="PASS">
+        <test-method is-config="true" signature="ApplicationLaunch()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:38:17 EDT" name="ApplicationLaunch" finished-at="2024-10-06T05:38:29 EDT" duration-ms="11735" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ApplicationLaunch -->
-        <test-method is-config="true" signature="setUpExtentTestObject(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:09:52 EDT" name="setUpExtentTestObject" finished-at="2024-10-03T13:09:52 EDT" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="setUpExtentTestObject(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:38:29 EDT" name="setUpExtentTestObject" finished-at="2024-10-06T05:38:29 EDT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154] output={null}]]]>
+                <![CDATA[[TestResult name={null} status=CREATED method=SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpExtentTestObject -->
-        <test-method signature="LoginInToRogersWebsite()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:09:52 EDT" name="LoginInToRogersWebsite" finished-at="2024-10-03T13:11:20 EDT" duration-ms="88712" status="FAIL">
+        <test-method signature="LoginInToRogersWebsite()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:38:29 EDT" name="LoginInToRogersWebsite" finished-at="2024-10-06T05:39:57 EDT" duration-ms="88170" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()=" Try Again "]"}
-  (Session info: chrome=129.0.6668.71)
+  (Session info: chrome=129.0.6668.90)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.25.0', revision: '8a8aea2337'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [811c8abfa8d1857fc8a77883be31297d, findElement {value=//span[text()=" Try Again "], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.71, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\SANJEE~1.KUM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49936}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49936/devtoo..., se:cdpVersion: 129.0.6668.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 811c8abfa8d1857fc8a77883be31297d]]>
+Command: [57515e7ec87dadab89a449a04b13d076, findElement {using=xpath, value=//span[text()=" Try Again "]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\SANJEE~1.KUM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51038}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51038/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 57515e7ec87dadab89a449a04b13d076]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()=" Try Again "]"}
-  (Session info: chrome=129.0.6668.71)
+  (Session info: chrome=129.0.6668.90)
 For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Build info: version: '4.25.0', revision: '8a8aea2337'
 System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [811c8abfa8d1857fc8a77883be31297d, findElement {value=//span[text()=" Try Again "], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.71, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\SANJEE~1.KUM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49936}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49936/devtoo..., se:cdpVersion: 129.0.6668.71, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 811c8abfa8d1857fc8a77883be31297d
+Command: [57515e7ec87dadab89a449a04b13d076, findElement {using=xpath, value=//span[text()=" Try Again "]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.90, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\SANJEE~1.KUM\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51038}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51038/devtoo..., se:cdpVersion: 129.0.6668.90, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 57515e7ec87dadab89a449a04b13d076
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -1001,7 +1001,7 @@ at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:3
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
 at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
 at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy19.click(Unknown Source)
+at jdk.proxy2/jdk.proxy2.$Proxy20.click(Unknown Source)
 at webPages.HomePage.LoginToRogersApplication(HomePage.java:92)
 at SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite(SAI_SAI_DTG_HTO_Flow_Automation_E2E.java:44)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -1038,26 +1038,26 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginInToRogersWebsite -->
-        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:11:20 EDT" name="getSceenShot" finished-at="2024-10-03T13:11:21 EDT" duration-ms="196" status="PASS">
+        <test-method is-config="true" signature="getSceenShot(org.testng.ITestResult)[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:39:57 EDT" name="getSceenShot" finished-at="2024-10-06T05:39:57 EDT" duration-ms="254" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=LoginInToRogersWebsite status=FAILURE method=SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154] output={null}]]]>
+                <![CDATA[[TestResult name=LoginInToRogersWebsite status=FAILURE method=SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getSceenShot -->
-        <test-method signature="ENSLaunch()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:11:21 EDT" name="ENSLaunch" finished-at="2024-10-03T13:11:21 EDT" depends-on-methods="SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite" duration-ms="0" status="SKIP">
+        <test-method signature="ENSLaunch()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:39:57 EDT" name="ENSLaunch" finished-at="2024-10-06T05:39:57 EDT" depends-on-methods="SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite" duration-ms="0" status="SKIP">
           <exception class="java.lang.Throwable">
             <message>
-              <![CDATA[Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154 depends on not successfully finished methods 
-[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]]]>
+              <![CDATA[Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17 depends on not successfully finished methods 
+[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.Throwable: Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154 depends on not successfully finished methods 
-[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]
+              <![CDATA[java.lang.Throwable: Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17 depends on not successfully finished methods 
+[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.LoginInToRogersWebsite() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]
 at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:159)
 at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
 at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
@@ -1083,15 +1083,15 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ENSLaunch -->
-        <test-method signature="SignInToENSPortal()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:11:21 EDT" name="SignInToENSPortal" finished-at="2024-10-03T13:11:21 EDT" depends-on-methods="SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch" duration-ms="0" status="SKIP">
+        <test-method signature="SignInToENSPortal()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:39:57 EDT" name="SignInToENSPortal" finished-at="2024-10-06T05:39:57 EDT" depends-on-methods="SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch" duration-ms="0" status="SKIP">
           <exception class="java.lang.Throwable">
             <message>
-              <![CDATA[Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154 depends on not successfully finished methods 
-[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]]]>
+              <![CDATA[Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17 depends on not successfully finished methods 
+[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.Throwable: Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154 depends on not successfully finished methods 
-[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]
+              <![CDATA[java.lang.Throwable: Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17 depends on not successfully finished methods 
+[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.ENSLaunch() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]
 at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:159)
 at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
 at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
@@ -1117,15 +1117,15 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SignInToENSPortal -->
-        <test-method signature="SearchEmailInENS()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:11:21 EDT" name="SearchEmailInENS" finished-at="2024-10-03T13:11:21 EDT" depends-on-methods="SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal" duration-ms="0" status="SKIP">
+        <test-method signature="SearchEmailInENS()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:39:57 EDT" name="SearchEmailInENS" finished-at="2024-10-06T05:39:57 EDT" depends-on-methods="SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal" duration-ms="0" status="SKIP">
           <exception class="java.lang.Throwable">
             <message>
-              <![CDATA[Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SearchEmailInENS() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154 depends on not successfully finished methods 
-[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]]]>
+              <![CDATA[Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SearchEmailInENS() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17 depends on not successfully finished methods 
+[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.Throwable: Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SearchEmailInENS() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154 depends on not successfully finished methods 
-[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]
+              <![CDATA[java.lang.Throwable: Method SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SearchEmailInENS() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17 depends on not successfully finished methods 
+[SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E.SignInToENSPortal() on instance SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]
 at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:159)
 at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
 at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
@@ -1151,11 +1151,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchEmailInENS -->
-        <test-method is-config="true" signature="AppClosure()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:11:21 EDT" name="AppClosure" finished-at="2024-10-03T13:11:23 EDT" duration-ms="2864" status="PASS">
+        <test-method is-config="true" signature="AppClosure()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:39:57 EDT" name="AppClosure" finished-at="2024-10-06T05:40:02 EDT" duration-ms="4645" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AppClosure -->
-        <test-method is-config="true" signature="ReportFlush()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@6e535154]" started-at="2024-10-03T13:11:23 EDT" name="ReportFlush" finished-at="2024-10-03T13:11:25 EDT" duration-ms="1265" status="PASS">
+        <test-method is-config="true" signature="ReportFlush()[pri:0, instance:SignIn_Flow_Automation.SAI_SAI_DTG_HTO_Flow_Automation_E2E@17bffc17]" started-at="2024-10-06T05:40:02 EDT" name="ReportFlush" finished-at="2024-10-06T05:40:04 EDT" duration-ms="2052" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReportFlush -->
