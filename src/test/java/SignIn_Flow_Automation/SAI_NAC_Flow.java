@@ -34,6 +34,7 @@ public class SAI_NAC_Flow extends BaseClass {
 		Thread.sleep(10000);
 		System.out.println("This it the new update");
 		System.out.println("This it the new update in main branch for review");
+		System.out.println("This need to be push in child branch");
 		assertTrue(true);
 	
 
